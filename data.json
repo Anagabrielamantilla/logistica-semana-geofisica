@@ -1,5 +1,5 @@
 {
-  "revision": 1792771258710,
+  "revision": 1792771469528,
   "data": {
     "date": "2026-11-03",
     "members": [
@@ -43,7 +43,7 @@
         "time": "6:15 a. m.",
         "activity": "Preparar kits de bienvenida",
         "people": "3",
-        "responsible": "Brainer Vanegas, Sebastian Ardilla HDSP, Sebastián Blanco",
+        "responsible": "Brainer Vanegas, Sebastian Ardilla HDSP, Sebastián Blanco, Ana Gabriela",
         "place": "",
         "notes": "200 kits de bienvenida.",
         "done": false,
@@ -51,7 +51,8 @@
         "assignees": [
           "Brainer Vanegas",
           "Sebastian Ardilla HDSP",
-          "Sebastián Blanco"
+          "Sebastián Blanco",
+          "Ana Gabriela"
         ]
       },
       {
@@ -60,14 +61,15 @@
         "time": "6:15 a. m.",
         "activity": "Ubicar tres pendones",
         "people": "2",
-        "responsible": "Nohelia Agudelo, Miguel Velasco",
+        "responsible": "Nohelia Agudelo, Miguel Velasco, Ana Gabriela",
         "place": "",
         "notes": "3 pendones.",
         "done": false,
         "date": "2026-11-03",
         "assignees": [
           "Nohelia Agudelo",
-          "Miguel Velasco"
+          "Miguel Velasco",
+          "Ana Gabriela"
         ]
       },
       {
@@ -76,14 +78,15 @@
         "time": "6:15 a. m.",
         "activity": "Ubicar pendón grande",
         "people": "2",
-        "responsible": "David Zapata, Diego Reyes",
+        "responsible": "David Zapata, Diego Reyes, Ana Gabriela",
         "place": "",
         "notes": "1 pendón grande.",
         "done": false,
         "date": "2026-11-03",
         "assignees": [
           "David Zapata",
-          "Diego Reyes"
+          "Diego Reyes",
+          "Ana Gabriela"
         ]
       },
       {
@@ -92,12 +95,14 @@
         "time": "6:15 a. m.",
         "activity": "Organizar materiales",
         "people": "1",
-        "responsible": "",
+        "responsible": "Ana Gabriela",
         "place": "",
         "notes": "Escarapelas, cinta, marcadores y materiales varios.",
         "done": false,
         "date": "2026-11-03",
-        "assignees": []
+        "assignees": [
+          "Ana Gabriela"
+        ]
       },
       {
         "id": "7e3c1406-e026-43ee-b229-99e1996245f2",
@@ -105,13 +110,14 @@
         "time": "6:15 a. m.",
         "activity": "Supervisar a Megamusic",
         "people": "1",
-        "responsible": "Gabriela Barragán",
+        "responsible": "Gabriela Barragán, Ana Gabriela",
         "place": "",
         "notes": "",
         "done": false,
         "date": "2026-11-03",
         "assignees": [
-          "Gabriela Barragán"
+          "Gabriela Barragán",
+          "Ana Gabriela"
         ]
       },
       {
@@ -135,12 +141,14 @@
         "time": "7:00–8:00 a. m.",
         "activity": "Verificar y atender el salón",
         "people": "2",
-        "responsible": "",
+        "responsible": "Ana Gabriela",
         "place": "Salón",
         "notes": "Diapositivas, aire acondicionado, luces y demás requerimientos.",
         "done": false,
         "date": "2026-11-03",
-        "assignees": []
+        "assignees": [
+          "Ana Gabriela"
+        ]
       },
       {
         "id": "f24f853e-2b10-4612-8477-51a8ba142b9a",
@@ -148,13 +156,14 @@
         "time": "Mañana y tarde",
         "activity": "Orientar asistentes en el CENTIC",
         "people": "2",
-        "responsible": "Marcela",
+        "responsible": "Marcela, Ana Gabriela",
         "place": "Planta baja · CENTIC",
         "notes": "Marcela estará en el primer piso del CENTIC durante la mañana y la tarde. El plan general pide 2 personas: una junto al ascensor y otra en la entrada; falta confirmar la segunda persona. Pueden turnarse.",
         "done": false,
         "date": "2026-11-03",
         "assignees": [
-          "Marcela"
+          "Marcela",
+          "Ana Gabriela"
         ]
       },
       {
@@ -163,12 +172,14 @@
         "time": "Mañana y mediodía",
         "activity": "Acompañar ponentes y estudiantes",
         "people": "",
-        "responsible": "",
+        "responsible": "Ana Gabriela",
         "place": "Entrada UIS → CENTIC",
         "notes": "Personas del grupo por asignar para llevar ponentes y estudiantes desde la entrada de la UIS al CENTIC.",
         "done": false,
         "date": "2026-11-03",
-        "assignees": []
+        "assignees": [
+          "Ana Gabriela"
+        ]
       },
       {
         "id": "f9971949-f1b3-4e0d-ab22-2c3eefd2aaa3",
@@ -176,13 +187,14 @@
         "time": "",
         "activity": "Acompañar al profesor al salón",
         "people": "",
-        "responsible": "Jose Barrios",
+        "responsible": "Jose Barrios, Ana Gabriela",
         "place": "Salón",
         "notes": "",
         "done": false,
         "date": "2026-11-03",
         "assignees": [
-          "Jose Barrios"
+          "Jose Barrios",
+          "Ana Gabriela"
         ]
       },
       {
@@ -191,13 +203,14 @@
         "time": "Toda la mañana",
         "activity": "Crear contenido audiovisual de la mañana",
         "people": "1",
-        "responsible": "Paula Bohorquez",
+        "responsible": "Paula Bohorquez, Ana Gabriela",
         "place": "",
         "notes": "Grabar, tomar fotos y realizar entrevistas. Preferiblemente iPhone; si no se puede con celular, usar cámara.",
         "done": false,
         "date": "2026-11-03",
         "assignees": [
-          "Paula Bohorquez"
+          "Paula Bohorquez",
+          "Ana Gabriela"
         ]
       },
       {
@@ -206,13 +219,14 @@
         "time": "",
         "activity": "Crear resumen audiovisual del día",
         "people": "1 o 2",
-        "responsible": "Jose Barrios",
+        "responsible": "Jose Barrios, Ana Gabriela",
         "place": "",
         "notes": "El cierre del documento asigna el resumen del martes a Jose Barrios.",
         "done": false,
         "date": "2026-11-03",
         "assignees": [
-          "Jose Barrios"
+          "Jose Barrios",
+          "Ana Gabriela"
         ]
       },
       {
@@ -221,14 +235,15 @@
         "time": "Mañana y tarde · llegada de la mañana: 8:30 a. m.",
         "activity": "Recibir y repartir refrigerios",
         "people": "2",
-        "responsible": "Diego Reyes, Gabriela Barragán",
+        "responsible": "Diego Reyes, Gabriela Barragán, Ana Gabriela",
         "place": "",
         "notes": "Recibir y repartir en la mañana y la tarde. Verificar la llegada puntual; si no llegan a tiempo, llamar a Anita.",
         "done": false,
         "date": "2026-11-03",
         "assignees": [
           "Diego Reyes",
-          "Gabriela Barragán"
+          "Gabriela Barragán",
+          "Ana Gabriela"
         ]
       },
       {
@@ -237,12 +252,14 @@
         "time": "Antes de las 10:00 a. m.",
         "activity": "Consultar y apartar almuerzos",
         "people": "1",
-        "responsible": "",
+        "responsible": "Ana Gabriela",
         "place": "Bpro · tercer piso / Camilo",
         "notes": "Preguntar a los ponentes por el grupo. Explicar cómo pedir y pagar.",
         "done": false,
         "date": "2026-11-03",
-        "assignees": []
+        "assignees": [
+          "Ana Gabriela"
+        ]
       },
       {
         "id": "db768d68-ff3f-4a84-adfa-8c8a8d036913",
@@ -250,12 +267,14 @@
         "time": "Mediodía",
         "activity": "Custodiar los materiales",
         "people": "1 o 2",
-        "responsible": "",
+        "responsible": "Ana Gabriela",
         "place": "",
         "notes": "Quedarse con las cosas durante el almuerzo.",
         "done": false,
         "date": "2026-11-03",
-        "assignees": []
+        "assignees": [
+          "Ana Gabriela"
+        ]
       },
       {
         "id": "be4237e2-1134-4748-8ec9-e561a55f1892",
@@ -263,14 +282,15 @@
         "time": "2:30 p. m.",
         "activity": "Abrir y verificar auditorio Camacho",
         "people": "2",
-        "responsible": "Diego Reyes, Carlos Mogollón",
+        "responsible": "Diego Reyes, Carlos Mogollón, Ana Gabriela",
         "place": "Auditorio Camacho",
         "notes": "Abrir el auditorio del panel y verificar aire acondicionado, luces y funcionamiento.",
         "done": false,
         "date": "2026-11-03",
         "assignees": [
           "Diego Reyes",
-          "Carlos Mogollón"
+          "Carlos Mogollón",
+          "Ana Gabriela"
         ]
       },
       {
@@ -279,12 +299,14 @@
         "time": "2:30 p. m.",
         "activity": "Trasladar materiales al nuevo auditorio",
         "people": "8",
-        "responsible": "",
+        "responsible": "Ana Gabriela",
         "place": "Nuevo auditorio",
         "notes": "Pendones y demás materiales.",
         "done": false,
         "date": "2026-11-03",
-        "assignees": []
+        "assignees": [
+          "Ana Gabriela"
+        ]
       },
       {
         "id": "07818e8c-eb97-4ad5-8bb1-d4517d62a794",
@@ -292,12 +314,14 @@
         "time": "",
         "activity": "Adecuar el espacio para el panel",
         "people": "",
-        "responsible": "",
+        "responsible": "Ana Gabriela",
         "place": "Nuevo auditorio",
         "notes": "Organizar sillas y demás elementos necesarios.",
         "done": false,
         "date": "2026-11-03",
-        "assignees": []
+        "assignees": [
+          "Ana Gabriela"
+        ]
       },
       {
         "id": "27df3472-9734-4cf5-8827-40c5859e0b77",
@@ -305,12 +329,14 @@
         "time": "",
         "activity": "Recibir a las ponentes que llegan",
         "people": "1",
-        "responsible": "",
+        "responsible": "Ana Gabriela",
         "place": "",
         "notes": "",
         "done": false,
         "date": "2026-11-03",
-        "assignees": []
+        "assignees": [
+          "Ana Gabriela"
+        ]
       },
       {
         "id": "3ddc34a4-d510-4966-a644-e22b625ee8bb",
@@ -318,7 +344,7 @@
         "time": "Al finalizar el día",
         "activity": "Regresar materiales al salón",
         "people": "3",
-        "responsible": "Sebastian Ardilla HDSP, David Zapata, Sebastián Blanco, Brainer Vanegas",
+        "responsible": "Sebastian Ardilla HDSP, David Zapata, Sebastián Blanco, Brainer Vanegas, Ana Gabriela",
         "place": "Salón",
         "notes": "Traer todo al salón excepto las mesas. POR CONFIRMAR: el apunte dice 3 personas, pero lista 4 responsables; se conservan los cuatro nombres indicados.",
         "done": false,
@@ -327,7 +353,8 @@
           "Sebastian Ardilla HDSP",
           "David Zapata",
           "Sebastián Blanco",
-          "Brainer Vanegas"
+          "Brainer Vanegas",
+          "Ana Gabriela"
         ]
       },
       {
@@ -336,12 +363,14 @@
         "time": "",
         "activity": "Coordinar recogida con Megamusic",
         "people": "",
-        "responsible": "",
+        "responsible": "Ana Gabriela",
         "place": "",
         "notes": "Coordinar la recogida de mesas y sillas.",
         "done": false,
         "date": "2026-11-03",
-        "assignees": []
+        "assignees": [
+          "Ana Gabriela"
+        ]
       },
       {
         "id": "schedule-2026-11-04-01",
@@ -350,7 +379,7 @@
         "time": "7:00 a. m.",
         "activity": "Montar kits y pendones de bienvenida",
         "people": "5",
-        "responsible": "Sanin Celedón, Sebastián Vesga, Paula Roa, Kevin Tarazona",
+        "responsible": "Sanin Celedón, Sebastián Vesga, Paula Roa, Kevin Tarazona, Ana Gabriela",
         "place": "",
         "notes": "Equipo conjunto: kits (1 persona), tres pendones (2 personas), pendón grande (2 personas). El documento nombra 4 integrantes; falta confirmar una persona y distribuir las tareas dentro del equipo.",
         "done": false,
@@ -358,7 +387,8 @@
           "Sanin Celedón",
           "Sebastián Vesga",
           "Paula Roa",
-          "Kevin Tarazona"
+          "Kevin Tarazona",
+          "Ana Gabriela"
         ]
       },
       {
@@ -368,12 +398,13 @@
         "time": "",
         "activity": "Coordinar mesas con Megamusic",
         "people": "1",
-        "responsible": "David Guiza",
+        "responsible": "David Guiza, Ana Gabriela",
         "place": "",
         "notes": "",
         "done": false,
         "assignees": [
-          "David Guiza"
+          "David Guiza",
+          "Ana Gabriela"
         ]
       },
       {
@@ -383,12 +414,13 @@
         "time": "",
         "activity": "Preparar y verificar auditorio",
         "people": "1",
-        "responsible": "Gabriela Barragán",
+        "responsible": "Gabriela Barragán, Ana Gabriela",
         "place": "Auditorio",
         "notes": "",
         "done": false,
         "assignees": [
-          "Gabriela Barragán"
+          "Gabriela Barragán",
+          "Ana Gabriela"
         ]
       },
       {
@@ -398,12 +430,13 @@
         "time": "Mañana y tarde",
         "activity": "Recibir y repartir refrigerios",
         "people": "1",
-        "responsible": "Gabriela Barragán",
+        "responsible": "Gabriela Barragán, Ana Gabriela",
         "place": "",
         "notes": "",
         "done": false,
         "assignees": [
-          "Gabriela Barragán"
+          "Gabriela Barragán",
+          "Ana Gabriela"
         ]
       },
       {
@@ -413,12 +446,13 @@
         "time": "Mañana y tarde",
         "activity": "Orientar asistentes en el CENTIC",
         "people": "2",
-        "responsible": "Marcela",
+        "responsible": "Marcela, Ana Gabriela",
         "place": "Planta baja · CENTIC",
         "notes": "Marcela cubre mañana y tarde. Se requieren 2 personas; falta confirmar la segunda.",
         "done": false,
         "assignees": [
-          "Marcela"
+          "Marcela",
+          "Ana Gabriela"
         ]
       },
       {
@@ -428,11 +462,13 @@
         "time": "Receso de almuerzo",
         "activity": "Cubrir el receso de almuerzo",
         "people": "2",
-        "responsible": "",
+        "responsible": "Ana Gabriela",
         "place": "",
         "notes": "",
         "done": false,
-        "assignees": []
+        "assignees": [
+          "Ana Gabriela"
+        ]
       },
       {
         "id": "schedule-2026-11-04-09",
@@ -441,12 +477,13 @@
         "time": "Mañana y tarde",
         "activity": "Tomar videos y fotos",
         "people": "",
-        "responsible": "Paula Bohorquez",
+        "responsible": "Paula Bohorquez, Ana Gabriela",
         "place": "",
         "notes": "El nuevo apunte no indica cantidad de personas; asigna a Paula Bohorquez durante ambas jornadas.",
         "done": false,
         "assignees": [
-          "Paula Bohorquez"
+          "Paula Bohorquez",
+          "Ana Gabriela"
         ]
       },
       {
@@ -456,12 +493,13 @@
         "time": "",
         "activity": "Coordinar almuerzo de ponentes",
         "people": "1",
-        "responsible": "Diego Reyes",
+        "responsible": "Diego Reyes, Ana Gabriela",
         "place": "",
         "notes": "",
         "done": false,
         "assignees": [
-          "Diego Reyes"
+          "Diego Reyes",
+          "Ana Gabriela"
         ]
       },
       {
@@ -487,7 +525,7 @@
         "time": "Al finalizar el día",
         "activity": "Regresar los materiales",
         "people": "5",
-        "responsible": "Sebastián Vesga, David Guiza, Carlos Mogollón, Kevin Tarazona",
+        "responsible": "Sebastián Vesga, David Guiza, Carlos Mogollón, Kevin Tarazona, Ana Gabriela",
         "place": "",
         "notes": "Se requieren 5 personas; el documento lista 4. Falta confirmar una persona.",
         "done": false,
@@ -495,7 +533,8 @@
           "Sebastián Vesga",
           "David Guiza",
           "Carlos Mogollón",
-          "Kevin Tarazona"
+          "Kevin Tarazona",
+          "Ana Gabriela"
         ]
       },
       {
@@ -505,7 +544,7 @@
         "time": "7:00 a. m.",
         "activity": "Montar kits y pendones de bienvenida",
         "people": "5",
-        "responsible": "Alvercy, Esteban Vargas, Miguel Velasco, Steve Pancino",
+        "responsible": "Alvercy, Esteban Vargas, Miguel Velasco, Steve Pancino, Ana Gabriela",
         "place": "",
         "notes": "Equipo conjunto: kits (1 persona), tres pendones (2 personas), pendón grande (2 personas). El documento nombra 4 integrantes; falta confirmar una persona y distribuir las tareas dentro del equipo.",
         "done": false,
@@ -513,7 +552,8 @@
           "Alvercy",
           "Esteban Vargas",
           "Miguel Velasco",
-          "Steve Pancino"
+          "Steve Pancino",
+          "Ana Gabriela"
         ]
       },
       {
@@ -523,12 +563,13 @@
         "time": "",
         "activity": "Coordinar mesas con Megamusic",
         "people": "1",
-        "responsible": "David Guiza",
+        "responsible": "David Guiza, Ana Gabriela",
         "place": "",
         "notes": "",
         "done": false,
         "assignees": [
-          "David Guiza"
+          "David Guiza",
+          "Ana Gabriela"
         ]
       },
       {
@@ -538,12 +579,13 @@
         "time": "",
         "activity": "Preparar y verificar auditorio",
         "people": "1",
-        "responsible": "David Zapata",
+        "responsible": "David Zapata, Ana Gabriela",
         "place": "Auditorio",
         "notes": "",
         "done": false,
         "assignees": [
-          "David Zapata"
+          "David Zapata",
+          "Ana Gabriela"
         ]
       },
       {
@@ -553,12 +595,13 @@
         "time": "Mañana y tarde",
         "activity": "Coordinar refrigerios y devolución de bandejas",
         "people": "1",
-        "responsible": "Gabriela Barragán",
+        "responsible": "Gabriela Barragán, Ana Gabriela",
         "place": "",
         "notes": "Cuadrar la entrega y recogida de bandejas para evitar que el grupo tenga que transportarlas.",
         "done": false,
         "assignees": [
-          "Gabriela Barragán"
+          "Gabriela Barragán",
+          "Ana Gabriela"
         ]
       },
       {
@@ -568,13 +611,14 @@
         "time": "Mañana y tarde",
         "activity": "Orientar asistentes en el CENTIC",
         "people": "2",
-        "responsible": "Sebastián Blanco, Brainer Vanegas",
+        "responsible": "Sebastián Blanco, Brainer Vanegas, Ana Gabriela",
         "place": "Planta baja · CENTIC",
         "notes": "",
         "done": false,
         "assignees": [
           "Sebastián Blanco",
-          "Brainer Vanegas"
+          "Brainer Vanegas",
+          "Ana Gabriela"
         ]
       },
       {
@@ -584,13 +628,14 @@
         "time": "8:00 a. m.",
         "activity": "Abrir y adecuar auditorio para el panel",
         "people": "2",
-        "responsible": "Kevin Arias, Sebastian Ardilla HDSP",
+        "responsible": "Kevin Arias, Sebastian Ardilla HDSP, Ana Gabriela",
         "place": "Auditorio de Ingeniería Mecánica",
         "notes": "A las 8:00 a. m.: abrir, ajustar videobeam, probar sonido y llevar computador. REVISAR EQUIPO: el documento exige personas diferentes a las del traslado de las 8:30, pero asigna los mismos dos responsables a ambas tareas.",
         "done": false,
         "assignees": [
           "Kevin Arias",
-          "Sebastian Ardilla HDSP"
+          "Sebastian Ardilla HDSP",
+          "Ana Gabriela"
         ]
       },
       {
@@ -600,13 +645,14 @@
         "time": "8:30 a. m.",
         "activity": "Trasladar tres pendones al panel",
         "people": "2",
-        "responsible": "Sebastian Ardilla HDSP, Kevin Arias",
+        "responsible": "Sebastian Ardilla HDSP, Kevin Arias, Ana Gabriela",
         "place": "CENTIC → Auditorio de Ingeniería Mecánica",
         "notes": "Trasladar tres pendones del CENTIC al auditorio de Ingeniería Mecánica. REVISAR EQUIPO: también están asignados a la preparación del auditorio de las 8:00 a. m., que el documento pide cubrir con personas diferentes.",
         "done": false,
         "assignees": [
           "Sebastian Ardilla HDSP",
-          "Kevin Arias"
+          "Kevin Arias",
+          "Ana Gabriela"
         ]
       },
       {
@@ -631,12 +677,13 @@
         "time": "",
         "activity": "Crear publicidad y contenido audiovisual",
         "people": "",
-        "responsible": "Paula Bohorquez",
+        "responsible": "Paula Bohorquez, Ana Gabriela",
         "place": "",
         "notes": "",
         "done": false,
         "assignees": [
-          "Paula Bohorquez"
+          "Paula Bohorquez",
+          "Ana Gabriela"
         ]
       },
       {
@@ -646,13 +693,14 @@
         "time": "10:30 a. m.",
         "activity": "Iniciar retorno de materiales al CENTIC",
         "people": "",
-        "responsible": "Sanin Celedón, Sebastián Vesga",
+        "responsible": "Sanin Celedón, Sebastián Vesga, Ana Gabriela",
         "place": "Auditorio de Ingeniería Mecánica → CENTIC",
         "notes": "Desde las 10:30: llevar los pendones al CENTIC. El apunte general también menciona pendón grande, sillas y mesas; confirmar qué materiales adicionales se trasladan y el equipo necesario. Para un pendón indica 1 persona.",
         "done": false,
         "assignees": [
           "Sanin Celedón",
-          "Sebastián Vesga"
+          "Sebastián Vesga",
+          "Ana Gabriela"
         ]
       },
       {
@@ -662,11 +710,13 @@
         "time": "10:30 a. m.",
         "activity": "Abrir y verificar auditorio del CENTIC",
         "people": "2",
-        "responsible": "",
+        "responsible": "Ana Gabriela",
         "place": "CENTIC",
         "notes": "Preparar sonido y demás requerimientos.",
         "done": false,
-        "assignees": []
+        "assignees": [
+          "Ana Gabriela"
+        ]
       },
       {
         "id": "schedule-2026-11-05-18",
@@ -675,11 +725,13 @@
         "time": "Receso",
         "activity": "Custodiar los materiales",
         "people": "2",
-        "responsible": "",
+        "responsible": "Ana Gabriela",
         "place": "",
         "notes": "Alternativa: dejar los materiales dentro del auditorio.",
         "done": false,
-        "assignees": []
+        "assignees": [
+          "Ana Gabriela"
+        ]
       },
       {
         "id": "schedule-2026-11-05-19",
@@ -688,12 +740,13 @@
         "time": "1:30 p. m.",
         "activity": "Abrir y verificar el CENTIC para la tarde",
         "people": "1 o 2",
-        "responsible": "Sanin Celedón",
+        "responsible": "Sanin Celedón, Ana Gabriela",
         "place": "CENTIC",
         "notes": "",
         "done": false,
         "assignees": [
-          "Sanin Celedón"
+          "Sanin Celedón",
+          "Ana Gabriela"
         ]
       },
       {
@@ -703,14 +756,15 @@
         "time": "6:00 p. m.",
         "activity": "Guardar materiales y supervisar a Megamusic",
         "people": "5",
-        "responsible": "Alvercy, Esteban Vargas, David Guiza",
+        "responsible": "Alvercy, Esteban Vargas, David Guiza, Ana Gabriela",
         "place": "Salón",
         "notes": "Se requieren 5 personas; el documento lista 3. Faltan confirmar 2 personas.",
         "done": false,
         "assignees": [
           "Alvercy",
           "Esteban Vargas",
-          "David Guiza"
+          "David Guiza",
+          "Ana Gabriela"
         ]
       },
       {
@@ -720,7 +774,7 @@
         "time": "7:00 a. m.",
         "activity": "Montar kits y pendones de bienvenida",
         "people": "5",
-        "responsible": "Sanin Celedón, Kevin Tarazona, Esteban Vargas, Alvercy",
+        "responsible": "Sanin Celedón, Kevin Tarazona, Esteban Vargas, Alvercy, Ana Gabriela",
         "place": "",
         "notes": "Equipo conjunto: kits (1 persona), tres pendones (2 personas), pendón grande (2 personas). El documento nombra 4 integrantes; falta confirmar una persona y distribuir las tareas dentro del equipo.",
         "done": false,
@@ -728,7 +782,8 @@
           "Sanin Celedón",
           "Kevin Tarazona",
           "Esteban Vargas",
-          "Alvercy"
+          "Alvercy",
+          "Ana Gabriela"
         ]
       },
       {
@@ -738,12 +793,13 @@
         "time": "",
         "activity": "Coordinar mesas con Megamusic",
         "people": "1",
-        "responsible": "Alvercy",
+        "responsible": "Alvercy, Ana Gabriela",
         "place": "",
         "notes": "",
         "done": false,
         "assignees": [
-          "Alvercy"
+          "Alvercy",
+          "Ana Gabriela"
         ]
       },
       {
@@ -753,12 +809,13 @@
         "time": "",
         "activity": "Preparar y verificar auditorio",
         "people": "1",
-        "responsible": "Esteban Vargas",
+        "responsible": "Esteban Vargas, Ana Gabriela",
         "place": "Auditorio",
         "notes": "",
         "done": false,
         "assignees": [
-          "Esteban Vargas"
+          "Esteban Vargas",
+          "Ana Gabriela"
         ]
       },
       {
@@ -768,12 +825,13 @@
         "time": "Mañana y tarde",
         "activity": "Recibir y repartir refrigerios",
         "people": "1",
-        "responsible": "Gabriela Barragán",
+        "responsible": "Gabriela Barragán, Ana Gabriela",
         "place": "",
         "notes": "",
         "done": false,
         "assignees": [
-          "Gabriela Barragán"
+          "Gabriela Barragán",
+          "Ana Gabriela"
         ]
       },
       {
@@ -783,12 +841,13 @@
         "time": "",
         "activity": "Orientar asistentes en el CENTIC",
         "people": "2",
-        "responsible": "Kevin Arias",
+        "responsible": "Kevin Arias, Ana Gabriela",
         "place": "Planta baja · CENTIC",
         "notes": "Se requieren 2 personas; se asigna a Kevin Arias. Falta confirmar una persona.",
         "done": false,
         "assignees": [
-          "Kevin Arias"
+          "Kevin Arias",
+          "Ana Gabriela"
         ]
       },
       {
@@ -798,11 +857,13 @@
         "time": "Receso de almuerzo",
         "activity": "Supervisar recogida de Megamusic",
         "people": "2",
-        "responsible": "",
+        "responsible": "Ana Gabriela",
         "place": "",
         "notes": "Estar pendientes de que recojan todo durante el receso.",
         "done": false,
-        "assignees": []
+        "assignees": [
+          "Ana Gabriela"
+        ]
       },
       {
         "id": "schedule-2026-11-06-09",
@@ -811,12 +872,13 @@
         "time": "Todo el día",
         "activity": "Grabar durante la jornada",
         "people": "2",
-        "responsible": "Paula Bohorquez",
+        "responsible": "Paula Bohorquez, Ana Gabriela",
         "place": "",
         "notes": "Se requieren 2 personas; el documento asigna a Paula Bohorquez. Falta confirmar una persona.",
         "done": false,
         "assignees": [
-          "Paula Bohorquez"
+          "Paula Bohorquez",
+          "Ana Gabriela"
         ]
       },
       {
@@ -826,12 +888,13 @@
         "time": "",
         "activity": "Coordinar almuerzo de ponentes",
         "people": "1",
-        "responsible": "Diego Reyes",
+        "responsible": "Diego Reyes, Ana Gabriela",
         "place": "",
         "notes": "",
         "done": false,
         "assignees": [
-          "Diego Reyes"
+          "Diego Reyes",
+          "Ana Gabriela"
         ]
       },
       {
@@ -841,7 +904,7 @@
         "time": "1:00 p. m.",
         "activity": "Coordinar montaje con Megamusic",
         "people": "5",
-        "responsible": "Alvercy, Nohelia Agudelo, Sanin Celedón, Kevin Arias, Sebastián Vesga",
+        "responsible": "Alvercy, Nohelia Agudelo, Sanin Celedón, Kevin Arias, Sebastián Vesga, Ana Gabriela",
         "place": "",
         "notes": "Supervisar que instalen todo.",
         "done": false,
@@ -850,7 +913,8 @@
           "Nohelia Agudelo",
           "Sanin Celedón",
           "Kevin Arias",
-          "Sebastián Vesga"
+          "Sebastián Vesga",
+          "Ana Gabriela"
         ]
       },
       {
@@ -860,12 +924,13 @@
         "time": "",
         "activity": "Llevar extensiones al sótano",
         "people": "1",
-        "responsible": "Esteban Vargas",
+        "responsible": "Esteban Vargas, Ana Gabriela",
         "place": "Salón del grupo → Sótano",
         "notes": "",
         "done": false,
         "assignees": [
-          "Esteban Vargas"
+          "Esteban Vargas",
+          "Ana Gabriela"
         ]
       },
       {
@@ -875,12 +940,13 @@
         "time": "",
         "activity": "Organizar montaje de la Geoferia",
         "people": "",
-        "responsible": "SIGAC (equipo)",
+        "responsible": "SIGAC (equipo), Ana Gabriela",
         "place": "",
         "notes": "Poner manteles; repartir quién se encarga de cada mantel y asignar los puestos de los semilleros.",
         "done": false,
         "assignees": [
-          "SIGAC (equipo)"
+          "SIGAC (equipo)",
+          "Ana Gabriela"
         ]
       },
       {
@@ -890,12 +956,13 @@
         "time": "",
         "activity": "Asignar puestos de postres y orientar participantes",
         "people": "",
-        "responsible": "Alvercy",
+        "responsible": "Alvercy, Ana Gabriela",
         "place": "Geoferia",
         "notes": "Alvercy y los demás integrantes de apoyo. Falta concretar los otros responsables.",
         "done": false,
         "assignees": [
-          "Alvercy"
+          "Alvercy",
+          "Ana Gabriela"
         ]
       },
       {
@@ -905,7 +972,7 @@
         "time": "",
         "activity": "Recibir y repartir refrigerios de la Geoferia",
         "people": "5",
-        "responsible": "Nohelia Agudelo, Kevin Arias, Carlos Mogollón, Paul Goyes",
+        "responsible": "Nohelia Agudelo, Kevin Arias, Carlos Mogollón, Paul Goyes, Ana Gabriela",
         "place": "Geoferia",
         "notes": "Aproximadamente 80 refrigerios. Se requieren 5 personas y hay 4 nombres: falta confirmar una persona.",
         "done": false,
@@ -913,7 +980,8 @@
           "Nohelia Agudelo",
           "Kevin Arias",
           "Carlos Mogollón",
-          "Paul Goyes"
+          "Paul Goyes",
+          "Ana Gabriela"
         ]
       },
       {
@@ -923,13 +991,14 @@
         "time": "4:00 p. m.",
         "activity": "Supervisar desmontaje de la Geoferia con Megamusic",
         "people": "2",
-        "responsible": "Nohelia Agudelo, Carlos Mogollón",
+        "responsible": "Nohelia Agudelo, Carlos Mogollón, Ana Gabriela",
         "place": "Geoferia",
         "notes": "Verificar que Megamusic se lleve todo.",
         "done": false,
         "assignees": [
           "Nohelia Agudelo",
-          "Carlos Mogollón"
+          "Carlos Mogollón",
+          "Ana Gabriela"
         ]
       },
       {
@@ -939,12 +1008,13 @@
         "time": "3:50 p. m.",
         "activity": "Anunciar el cierre de la Geoferia",
         "people": "1",
-        "responsible": "Paul Goyes",
+        "responsible": "Paul Goyes, Ana Gabriela",
         "place": "Geoferia",
         "notes": "Paul Goyes anuncia que debe detenerse la actividad y finalizar la Geoferia. Puede usar micrófono o megáfono.",
         "done": false,
         "assignees": [
-          "Paul Goyes"
+          "Paul Goyes",
+          "Ana Gabriela"
         ]
       },
       {
@@ -954,14 +1024,15 @@
         "time": "4:00 p. m.",
         "activity": "Guiar participantes a Casa Aramburo",
         "people": "3",
-        "responsible": "Alvercy, Kevin Tarazona, Sanin Celedón",
+        "responsible": "Alvercy, Kevin Tarazona, Sanin Celedón, Ana Gabriela",
         "place": "Geoferia → Casa Aramburo",
         "notes": "La actividad inicia a las 4:15 p. m.",
         "done": false,
         "assignees": [
           "Alvercy",
           "Kevin Tarazona",
-          "Sanin Celedón"
+          "Sanin Celedón",
+          "Ana Gabriela"
         ]
       },
       {
@@ -971,14 +1042,15 @@
         "time": "3:30 p. m.",
         "activity": "Preparar Casa Aramburo",
         "people": "2",
-        "responsible": "Diego Reyes, Sebastian Ardilla HDSP, Kevin Arias",
+        "responsible": "Diego Reyes, Sebastian Ardilla HDSP, Kevin Arias, Ana Gabriela",
         "place": "Casa Aramburo",
         "notes": "Llevar videobeam y preparar la conexión al televisor. POR CONFIRMAR: se indican 2 personas, pero se listan 3 responsables. Coincide con su asignación para trasladar pendones a las 3:30 p. m.; coordinar ambos trabajos. El detalle «departido conectado con el televisor» del apunte original requiere confirmación.",
         "done": false,
         "assignees": [
           "Diego Reyes",
           "Sebastian Ardilla HDSP",
-          "Kevin Arias"
+          "Kevin Arias",
+          "Ana Gabriela"
         ]
       },
       {
@@ -988,7 +1060,7 @@
         "time": "3:30 p. m.",
         "activity": "Trasladar todos los pendones a Casa Aramburo",
         "people": "5",
-        "responsible": "David Zapata, Sebastian Ardilla HDSP, Diego Reyes, Kevin Arias",
+        "responsible": "David Zapata, Sebastian Ardilla HDSP, Diego Reyes, Kevin Arias, Ana Gabriela",
         "place": "Casa Aramburo",
         "notes": "Se requieren 5 personas; hay 4 nombres. Falta confirmar una persona. Diego Reyes, Sebastián Ardilla y Kevin Arias también figuran preparando Casa Aramburo a esta hora; coordinar ambas tareas.",
         "done": false,
@@ -996,7 +1068,8 @@
           "David Zapata",
           "Sebastian Ardilla HDSP",
           "Diego Reyes",
-          "Kevin Arias"
+          "Kevin Arias",
+          "Ana Gabriela"
         ]
       },
       {
@@ -1006,11 +1079,13 @@
         "time": "",
         "activity": "Supervisar entrega del televisor de Megamusic",
         "people": "1",
-        "responsible": "",
+        "responsible": "Ana Gabriela",
         "place": "Casa Aramburo",
         "notes": "",
         "done": false,
-        "assignees": []
+        "assignees": [
+          "Ana Gabriela"
+        ]
       },
       {
         "id": "schedule-2026-11-06-22",
@@ -1019,11 +1094,13 @@
         "time": "",
         "activity": "Supervisar recogida del televisor por Megamusic",
         "people": "1",
-        "responsible": "",
+        "responsible": "Ana Gabriela",
         "place": "Casa Aramburo",
         "notes": "",
         "done": false,
-        "assignees": []
+        "assignees": [
+          "Ana Gabriela"
+        ]
       },
       {
         "id": "schedule-2026-11-06-23",
@@ -1032,7 +1109,7 @@
         "time": "",
         "activity": "Recoger postres y pendones; llevarlos al salón",
         "people": "5",
-        "responsible": "Nohelia Agudelo, Sebastián Vesga, Esteban Vargas, Carlos Mogollón, Diego Reyes",
+        "responsible": "Nohelia Agudelo, Sebastián Vesga, Esteban Vargas, Carlos Mogollón, Diego Reyes, Ana Gabriela",
         "place": "Casa Aramburo → Salón",
         "notes": "Recoger también los demás materiales.",
         "done": false,
@@ -1041,7 +1118,8 @@
           "Sebastián Vesga",
           "Esteban Vargas",
           "Carlos Mogollón",
-          "Diego Reyes"
+          "Diego Reyes",
+          "Ana Gabriela"
         ]
       },
       {
@@ -1051,14 +1129,15 @@
         "time": "7:00 a. m.",
         "activity": "Bajar el equipo para la salida de campo",
         "people": "10",
-        "responsible": "Edward Duarte, Juliana Pino, David Zapata",
+        "responsible": "Edward Duarte, Juliana Pino, David Zapata, Ana Gabriela",
         "place": "",
         "notes": "Se requieren 10 personas; hay 3 responsables asignados. Faltan confirmar 7 personas.",
         "done": false,
         "assignees": [
           "Edward Duarte",
           "Juliana Pino",
-          "David Zapata"
+          "David Zapata",
+          "Ana Gabriela"
         ]
       },
       {
@@ -1098,11 +1177,13 @@
         "time": "4:00 o 5:00 p. m.",
         "activity": "Subir el equipo al regreso",
         "people": "10",
-        "responsible": "",
+        "responsible": "Ana Gabriela",
         "place": "",
         "notes": "Hora por confirmar: 4:00 o 5:00 p. m.",
         "done": false,
-        "assignees": []
+        "assignees": [
+          "Ana Gabriela"
+        ]
       },
       {
         "id": "updated-3-80",
@@ -1112,9 +1193,10 @@
         "time": "Toda la tarde",
         "people": "1",
         "assignees": [
-          "David Zapata"
+          "David Zapata",
+          "Ana Gabriela"
         ],
-        "responsible": "David Zapata",
+        "responsible": "David Zapata, Ana Gabriela",
         "place": "",
         "notes": "Ana Gabriela consigue el celular para David Zapata.",
         "done": false
@@ -1126,8 +1208,10 @@
         "phase": 2,
         "time": "",
         "people": "",
-        "assignees": [],
-        "responsible": "",
+        "assignees": [
+          "Ana Gabriela"
+        ],
+        "responsible": "Ana Gabriela",
         "place": "",
         "notes": "Llamar y confirmar si pueden dejarse las cosas allí.",
         "done": false
@@ -1141,9 +1225,10 @@
         "people": "2",
         "assignees": [
           "Sebastián Blanco",
-          "Brainer Vanegas"
+          "Brainer Vanegas",
+          "Ana Gabriela"
         ],
-        "responsible": "Sebastián Blanco, Brainer Vanegas",
+        "responsible": "Sebastián Blanco, Brainer Vanegas, Ana Gabriela",
         "place": "CENTIC → Auditorio del panel",
         "notes": "Trasladar los tres pendones pequeños. Coordinado con el traslado general de materiales.",
         "done": false
@@ -1156,9 +1241,10 @@
         "time": "",
         "people": "",
         "assignees": [
-          "David Guiza"
+          "David Guiza",
+          "Ana Gabriela"
         ],
-        "responsible": "David Guiza",
+        "responsible": "David Guiza, Ana Gabriela",
         "place": "",
         "notes": "Asignación del cierre del documento: David Guiza el resto de días.",
         "done": false
@@ -1171,9 +1257,10 @@
         "time": "",
         "people": "",
         "assignees": [
-          "David Guiza"
+          "David Guiza",
+          "Ana Gabriela"
         ],
-        "responsible": "David Guiza",
+        "responsible": "David Guiza, Ana Gabriela",
         "place": "",
         "notes": "Asignación del cierre del documento: David Guiza el resto de días.",
         "done": false
@@ -1186,9 +1273,10 @@
         "time": "",
         "people": "",
         "assignees": [
-          "David Guiza"
+          "David Guiza",
+          "Ana Gabriela"
         ],
-        "responsible": "David Guiza",
+        "responsible": "David Guiza, Ana Gabriela",
         "place": "",
         "notes": "Asignación del cierre del documento: David Guiza el resto de días.",
         "done": false
@@ -1201,9 +1289,10 @@
         "time": "",
         "people": "",
         "assignees": [
-          "David Guiza"
+          "David Guiza",
+          "Ana Gabriela"
         ],
-        "responsible": "David Guiza",
+        "responsible": "David Guiza, Ana Gabriela",
         "place": "",
         "notes": "Asignación del cierre del documento: David Guiza el resto de días.",
         "done": false
