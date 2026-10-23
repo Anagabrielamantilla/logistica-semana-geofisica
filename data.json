@@ -1,5 +1,5 @@
 {
-  "revision": 1792771469528,
+  "revision": 1792772823174,
   "data": {
     "date": "2026-11-03",
     "members": [
@@ -33,7 +33,6 @@
       "Kevin Tarazona",
       "David Guiza",
       "Steve Pancino",
-      "SIGAC (equipo)",
       "Juliana Pino"
     ],
     "tasks": [
@@ -940,12 +939,11 @@
         "time": "",
         "activity": "Organizar montaje de la Geoferia",
         "people": "",
-        "responsible": "SIGAC (equipo), Ana Gabriela",
+        "responsible": "Ana Gabriela",
         "place": "",
         "notes": "Poner manteles; repartir quién se encarga de cada mantel y asignar los puestos de los semilleros.",
         "done": false,
         "assignees": [
-          "SIGAC (equipo)",
           "Ana Gabriela"
         ]
       },
