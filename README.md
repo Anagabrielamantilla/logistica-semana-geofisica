@@ -9,7 +9,7 @@ La página pública permite consultar, buscar y filtrar; no permite guardar camb
 
 ## Ajustes con Codex
 
-Antes de cambiar actividades o responsables, descargar el estado actual desde `https://logistica-semana-geofisica.girls-geologist.chatgpt.site/api/board`. Actualizar `data.json` usando ese estado como base y asignar un valor nuevo y único a `revision`. Publicar el commit en `main`. El servicio aplica la nueva revisión al cargar el tablero; las ediciones del panel se mantienen entre cambios de código mientras `revision` no cambie. No usar una copia antigua de `data.json` como base porque podría reemplazar ajustes recientes del panel.
+Antes de cambiar actividades o responsables, descargar el estado actual desde `https://logistica-semana-geofisica.girls-geologist.chatgpt.site/api/board`. Actualizar `data.json` usando ese estado como base y asignar a `revision` un entero mayor que el actual (por ejemplo, `Date.now()`). Publicar el commit en `main`. El servicio aplica la nueva revisión al cargar el tablero; las ediciones del panel se mantienen entre cambios de código mientras `revision` no cambie. No usar una copia antigua de `data.json` como base porque podría reemplazar ajustes recientes del panel.
 
 Los cambios visuales se realizan en `index.html` y los publica GitHub Pages. El panel y su servidor se mantienen en Sites desde el chat original de Codex. Los permisos del servidor no dependen de controles HTML.
 
