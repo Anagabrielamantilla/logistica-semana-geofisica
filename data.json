@@ -1,5 +1,5 @@
 {
-  "revision": 1792772823174,
+  "revision": 1792773057102,
   "data": {
     "date": "2026-11-03",
     "members": [
@@ -20,7 +20,6 @@
       "Nohelia Agudelo",
       "Santiago Villabona",
       "Sebastian Ardilla HDSP",
-      "Sebastián Figueroa",
       "Ana Gabriela",
       "Paula Bohorquez",
       "Brainer Vanegas",
@@ -40,7 +39,7 @@
         "id": "05939a20-4fec-4ffa-82ca-8a6b52040242",
         "phase": 0,
         "time": "6:15 a. m.",
-        "activity": "Preparar kits de bienvenida",
+        "activity": "Llevar kits de bienvenida",
         "people": "3",
         "responsible": "Brainer Vanegas, Sebastian Ardilla HDSP, Sebastián Blanco, Ana Gabriela",
         "place": "",
